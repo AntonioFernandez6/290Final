@@ -97,7 +97,7 @@ const LandingPage = () => {
 
           <div className="text-center text-sm">
             <span className="block">
-              © 2024, Bad Guy Barbers. All Rights Reserved
+              © 2025, Bad Guy Barbers. All Rights Reserved
             </span>
             <span className="block mt-2">
               <a href="https://flowbite.com/" className="hover:underline">
