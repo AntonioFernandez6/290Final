@@ -65,7 +65,6 @@ const BarberSelection: React.FC = () => {
   }, []);
 
 
-  
   const barbers = [
     {
       name: 'Diego G.',
