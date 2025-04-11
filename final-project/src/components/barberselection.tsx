@@ -64,6 +64,7 @@ const BarberSelection: React.FC = () => {
     return () => clearTimeout(timer);
   }, []);
 
+  
   const barbers = [
     {
       name: 'Diego G.',
